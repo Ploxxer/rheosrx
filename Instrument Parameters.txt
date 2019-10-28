@@ -1,0 +1,23 @@
+Use in conjuction with file_creation_windows_prod.py
+
+Request from ClientConfigurations should return "/Shared/" which would be the first step in the path for egnyte
+
+The request for the specific instrument should return 4 seperate values:
+
+1. LocalDriveLetter
+2. WorkstationId
+3. AutomatedSubfolderList
+4. NetworkFilePath
+
+1. LocalDriveLetter in most cases should be "C:\"
+included in the local_path
+
+2. WorkstationId as of now is set as "SapioAutomation"
+comes right after the drive letter within local_path
+
+3. AutomatedSubfolderList should be comma seperated, "A,B,C,D"
+sets amount of subfolders to be created within ./Raw_data
+
+4. NetworkFilePath as of now is set as "Lab Data/Sapio-Sandbox/{InstrumentName}/{Date(YYYY-MM)}/{ExpName}/Raw_Data"
+works as part of the path template for both egnyte and the local machine
+values within curly braces are replaced within the code with the proper values

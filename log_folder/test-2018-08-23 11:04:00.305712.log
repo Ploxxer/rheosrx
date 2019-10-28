@@ -1,0 +1,116 @@
+2018-08-23 09:23:38,100:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:39,508:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperiment HTTP/1.1" 200 None
+2018-08-23 09:23:39,522:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:39,843:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ClientConfigurations HTTP/1.1" 200 None
+2018-08-23 09:23:39,852:DEBUG:EgnyteFTPRootPath: /Shared/
+2018-08-23 09:23:39,875:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:40,135:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12520 HTTP/1.1" 200 None
+2018-08-23 09:23:40,143:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:40,425:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12542 HTTP/1.1" 200 None
+2018-08-23 09:23:40,433:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:40,682:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12605 HTTP/1.1" 200 None
+2018-08-23 09:23:40,689:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:40,993:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12738 HTTP/1.1" 200 None
+2018-08-23 09:23:40,999:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:41,256:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11682 HTTP/1.1" 200 None
+2018-08-23 09:23:41,267:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:41,668:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11698 HTTP/1.1" 200 None
+2018-08-23 09:23:41,677:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:42,040:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=Instrument&field=InstrumentName&values=COUNTESS02 HTTP/1.1" 200 None
+2018-08-23 09:23:42,045:DEBUG:/Shared/Lab Data/Sapio-Sandbox/COUNTESS02/2018-08/Bio-Vernon_Qin-2018-08-20-84/Raw_Data
+2018-08-23 09:23:42,046:DEBUG:C:\SapioAutomation\Lab Data\Sapio-Sandbox\COUNTESS02\2018-08\Bio-Vernon_Qin-2018-08-20-84\Raw_Data
+2018-08-23 09:23:42,130:DEBUG:Starting new HTTPS connection (1): rheosrx.egnyte.com:443
+2018-08-23 09:23:42,629:DEBUG:https://rheosrx.egnyte.com:443 "POST /pubapi/v1/fs/Private/vqin/Shared/Lab%20Data/Sapio-Sandbox/COUNTESS02/2018-08/Bio-Vernon_Qin-2018-08-20-84/Raw_Data HTTP/1.1" 201 None
+2018-08-23 09:23:42,638:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:42,870:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12761 HTTP/1.1" 200 None
+2018-08-23 09:23:42,878:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:43,114:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11815 HTTP/1.1" 200 None
+2018-08-23 09:23:43,122:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:43,405:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12797 HTTP/1.1" 200 None
+2018-08-23 09:23:43,415:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:43,719:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12881 HTTP/1.1" 200 None
+2018-08-23 09:23:43,729:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:44,107:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11880 HTTP/1.1" 200 None
+2018-08-23 09:23:44,113:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:44,364:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12893 HTTP/1.1" 200 None
+2018-08-23 09:23:44,373:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:44,734:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11986 HTTP/1.1" 200 None
+2018-08-23 09:23:44,741:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:44,995:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=Instrument&field=InstrumentName&values=COUNTESS02 HTTP/1.1" 200 None
+2018-08-23 09:23:45,000:DEBUG:/Shared/Lab Data/Sapio-Sandbox/COUNTESS02/2018-08/Bio-Lauri_Clark-2018-08-21-87/Raw_Data
+2018-08-23 09:23:45,000:DEBUG:C:\SapioAutomation\Lab Data\Sapio-Sandbox\COUNTESS02\2018-08\Bio-Lauri_Clark-2018-08-21-87\Raw_Data
+2018-08-23 09:23:45,003:DEBUG:Starting new HTTPS connection (1): rheosrx.egnyte.com:443
+2018-08-23 09:23:45,372:DEBUG:https://rheosrx.egnyte.com:443 "POST /pubapi/v1/fs/Private/vqin/Shared/Lab%20Data/Sapio-Sandbox/COUNTESS02/2018-08/Bio-Lauri_Clark-2018-08-21-87/Raw_Data HTTP/1.1" 201 None
+2018-08-23 09:23:45,385:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:45,630:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=13066 HTTP/1.1" 200 None
+2018-08-23 09:23:45,637:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:45,878:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12008 HTTP/1.1" 200 None
+2018-08-23 09:23:45,886:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:46,203:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=13537 HTTP/1.1" 200 None
+2018-08-23 09:23:46,211:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:46,465:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12287 HTTP/1.1" 200 None
+2018-08-23 09:23:46,472:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:46,699:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12322 HTTP/1.1" 200 None
+2018-08-23 09:23:46,707:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:46,967:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12407 HTTP/1.1" 200 None
+2018-08-23 09:23:46,978:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 09:23:47,251:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12464 HTTP/1.1" 200 None
+2018-08-23 09:23:47,257:INFO:
+2018-08-23 11:03:59,386:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:00,024:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperiment HTTP/1.1" 200 None
+2018-08-23 11:04:00,057:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:00,299:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ClientConfigurations HTTP/1.1" 200 None
+2018-08-23 11:04:00,303:DEBUG:EgnyteFTPRootPath: /Shared/
+2018-08-23 11:04:00,308:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:00,528:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12520 HTTP/1.1" 200 None
+2018-08-23 11:04:00,534:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:00,770:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12542 HTTP/1.1" 200 None
+2018-08-23 11:04:00,776:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:00,997:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12605 HTTP/1.1" 200 None
+2018-08-23 11:04:01,002:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:01,237:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12738 HTTP/1.1" 200 None
+2018-08-23 11:04:01,246:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:01,478:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11682 HTTP/1.1" 200 None
+2018-08-23 11:04:01,484:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:01,720:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11698 HTTP/1.1" 200 None
+2018-08-23 11:04:01,725:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:01,920:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=Instrument&field=InstrumentName&values=COUNTESS02 HTTP/1.1" 200 None
+2018-08-23 11:04:01,924:DEBUG:/Shared/Lab Data/Sapio-Sandbox/COUNTESS02/2018-08/Bio-Vernon_Qin-2018-08-20-84/Raw_Data
+2018-08-23 11:04:01,924:DEBUG:C:\SapioAutomation\Lab Data\Sapio-Sandbox\COUNTESS02\2018-08\Bio-Vernon_Qin-2018-08-20-84\Raw_Data
+2018-08-23 11:04:01,939:DEBUG:Starting new HTTPS connection (1): rheosrx.egnyte.com:443
+2018-08-23 11:04:02,147:DEBUG:https://rheosrx.egnyte.com:443 "POST /pubapi/v1/fs/Private/vqin/Shared/Lab%20Data/Sapio-Sandbox/COUNTESS02/2018-08/Bio-Vernon_Qin-2018-08-20-84/Raw_Data HTTP/1.1" 403 None
+2018-08-23 11:04:02,160:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:02,396:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12761 HTTP/1.1" 200 None
+2018-08-23 11:04:02,406:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:02,648:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11815 HTTP/1.1" 200 None
+2018-08-23 11:04:02,656:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:02,873:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12797 HTTP/1.1" 200 None
+2018-08-23 11:04:02,880:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:03,110:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12881 HTTP/1.1" 200 None
+2018-08-23 11:04:03,115:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:03,346:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11880 HTTP/1.1" 200 None
+2018-08-23 11:04:03,354:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:03,591:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12893 HTTP/1.1" 200 None
+2018-08-23 11:04:03,602:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:03,836:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=11986 HTTP/1.1" 200 None
+2018-08-23 11:04:03,845:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:04,050:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=Instrument&field=InstrumentName&values=COUNTESS02 HTTP/1.1" 200 None
+2018-08-23 11:04:04,057:DEBUG:/Shared/Lab Data/Sapio-Sandbox/COUNTESS02/2018-08/Bio-Lauri_Clark-2018-08-21-87/Raw_Data
+2018-08-23 11:04:04,058:DEBUG:C:\SapioAutomation\Lab Data\Sapio-Sandbox\COUNTESS02\2018-08\Bio-Lauri_Clark-2018-08-21-87\Raw_Data
+2018-08-23 11:04:04,062:DEBUG:Starting new HTTPS connection (1): rheosrx.egnyte.com:443
+2018-08-23 11:04:04,248:DEBUG:https://rheosrx.egnyte.com:443 "POST /pubapi/v1/fs/Private/vqin/Shared/Lab%20Data/Sapio-Sandbox/COUNTESS02/2018-08/Bio-Lauri_Clark-2018-08-21-87/Raw_Data HTTP/1.1" 403 None
+2018-08-23 11:04:04,260:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:04,502:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=13066 HTTP/1.1" 200 None
+2018-08-23 11:04:04,509:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:04,744:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12008 HTTP/1.1" 200 None
+2018-08-23 11:04:04,752:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:04,977:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=13537 HTTP/1.1" 200 None
+2018-08-23 11:04:04,983:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:05,232:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12287 HTTP/1.1" 200 None
+2018-08-23 11:04:05,242:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:05,463:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12322 HTTP/1.1" 200 None
+2018-08-23 11:04:05,472:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:05,714:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12407 HTTP/1.1" 200 None
+2018-08-23 11:04:05,719:DEBUG:Starting new HTTPS connection (1): node-25.exemplareln.com:8443
+2018-08-23 11:04:05,936:DEBUG:https://node-25.exemplareln.com:8443 "GET /velox_webservice/api/datarecord?datatype=ELNExperimentDetail&field=RelatedNotebookExperiment&values=12464 HTTP/1.1" 200 None
+2018-08-23 11:04:05,940:INFO:

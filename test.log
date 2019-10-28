@@ -1,0 +1,5 @@
+2019-01-15 10:38:32,657:DEBUG:Starting new HTTPS connection (1): a4633.exemplareln.com:443
+2019-01-15 10:38:34,149:DEBUG:https://a4633.exemplareln.com:443 "GET /velox_webservice/api/datarecord?datatype=ELNExperiment HTTP/1.1" 200 None
+2019-01-15 10:38:34,159:DEBUG:Starting new HTTPS connection (1): a4633.exemplareln.com:443
+2019-01-15 10:38:34,316:DEBUG:https://a4633.exemplareln.com:443 "GET /velox_webservice/api/datarecord?datatype=ClientConfigurations HTTP/1.1" 200 None
+2019-01-15 10:38:34,321:DEBUG:EgnyteFTPRootPath: /Shared/
